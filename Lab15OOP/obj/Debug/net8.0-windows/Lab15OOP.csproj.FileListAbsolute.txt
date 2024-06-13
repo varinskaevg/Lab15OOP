@@ -1,0 +1,16 @@
+D:\Нова папка\Lab15OOP\bin\Debug\net8.0-windows\Lab15OOP.exe
+D:\Нова папка\Lab15OOP\bin\Debug\net8.0-windows\Lab15OOP.deps.json
+D:\Нова папка\Lab15OOP\bin\Debug\net8.0-windows\Lab15OOP.runtimeconfig.json
+D:\Нова папка\Lab15OOP\bin\Debug\net8.0-windows\Lab15OOP.dll
+D:\Нова папка\Lab15OOP\bin\Debug\net8.0-windows\Lab15OOP.pdb
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.Form1.resources
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.AssemblyInfo.cs
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.dll
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\refint\Lab15OOP.dll
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.pdb
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\Lab15OOP.genruntimeconfig.cache
+D:\Нова папка\Lab15OOP\obj\Debug\net8.0-windows\ref\Lab15OOP.dll
